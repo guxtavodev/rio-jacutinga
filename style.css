@@ -126,6 +126,57 @@ img{
 
 }
 
-#fonte {
-  margin-top: 10px;
+#cima{
+
+  width: 100%;
+
+  margin-bottom: -6px;
+
 }
+
+#fonte {
+
+  margin-top: 35px;
+
+  position: relative;
+
+  z-index: 998;
+
+  margin-bottom: -470px;
+
+}
+
+#fonte-2 {
+
+  position: relative;
+
+  z-index: 999;
+
+}
+
+img {
+
+  width: 100%;
+
+  margin-bottom: -40px;
+
+}
+
+#sla {
+
+  position: relative;
+
+  z-index: 999;
+
+}
+
+#sla-2 {
+
+  margin-top: -15px;
+
+  position: relative;
+
+  z-index: 998;
+
+}
+
